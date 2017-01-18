@@ -15,7 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectORB.Windows", "Proje
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ProjectORB\ProjectORB\ProjectORB.projitems*{38ff6b00-d58a-49a0-9378-b07e242ef726}*SharedItemsImports = 4
+		ProjectORB\ProjectORB\ProjectORB.projitems*{87bfc094-ff4c-4215-9835-5487812ef1e2}*SharedItemsImports = 4
 		ProjectORB\ProjectORB\ProjectORB.projitems*{9424790a-4ac6-40e8-9074-883f8e18501d}*SharedItemsImports = 4
+		ProjectORB\ProjectORB\ProjectORB.projitems*{9924ea73-a315-4cb7-a131-970a13be29c6}*SharedItemsImports = 4
 		ProjectORB\ProjectORB\ProjectORB.projitems*{d34f8b5b-7813-4c06-b89e-617f8ca143d5}*SharedItemsImports = 13
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
